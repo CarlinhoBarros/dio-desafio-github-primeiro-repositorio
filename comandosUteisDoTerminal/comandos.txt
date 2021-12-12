@@ -8,4 +8,4 @@ git commit -m <mensagem> - comita a modificação com uma mensagem
 
 git push origen main - envia todos os commits para o github
 
-
+git remote set-url origin "https://(username)@github.com/(username)/(nome do repositório).git" - alterar/atualizar a origem do repositório
