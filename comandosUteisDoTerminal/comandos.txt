@@ -1,0 +1,10 @@
+git clone <endereco> - copia o projeto do github
+
+git status - verifica o status do projeto
+
+git add . ou -a - adiciona as modificações a maquina local
+
+git commit -m <mensagem> - sobe as modificações ao git com uma mensagem
+
+
+
