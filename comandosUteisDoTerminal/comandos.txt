@@ -4,7 +4,8 @@ git status - verifica o status do projeto
 
 git add . ou -a - adiciona as modificações a maquina local
 
-git commit -m <mensagem> - sobe as modificações ao git com uma mensagem
+git commit -m <mensagem> - comita a modificação com uma mensagem
 
+git push origen main - envia todos os commits para o github
 
 
